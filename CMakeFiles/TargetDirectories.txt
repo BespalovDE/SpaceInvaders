@@ -1,0 +1,5 @@
+C:/CppDistro/SpaceInvanders/CMakeFiles/edit_cache.dir
+C:/CppDistro/SpaceInvanders/CMakeFiles/rebuild_cache.dir
+C:/CppDistro/SpaceInvanders/prog/CMakeFiles/prog.dir
+C:/CppDistro/SpaceInvanders/prog/CMakeFiles/edit_cache.dir
+C:/CppDistro/SpaceInvanders/prog/CMakeFiles/rebuild_cache.dir
